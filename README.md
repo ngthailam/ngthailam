@@ -4,7 +4,7 @@
 
 ## :sunglasses: About me 
 
-I have been a fulltime **Android/Flutter Developer** for more than 4 years. I have participated in the development of mobile apps of different sizes, accross fields such as E-commerce, Payment, Warehouse management, Ride hailing, etc.
+Mainly a Mobile Developer (Android, IOS, Flutter), but also has experience with Backend development. Currently exploring the world of AI, LLMs, etc
 
 My strength is my ability to find the balance between technical and business side of a product, as I am keen on studying and understanding both code writing and the process of product development.
 
